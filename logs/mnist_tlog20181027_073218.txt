@@ -1,0 +1,5 @@
+2018.10.27 07:32:18
+Network Structure: [784, 30, 10]
+Network Calcultions: 24644
+Network Parameters: 23820
+Total itterations: 12137
